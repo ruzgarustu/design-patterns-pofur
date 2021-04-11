@@ -1,0 +1,4 @@
+C:\Users\findik\source\repos\DesignPatternsPofur\StrategyPatternWithoutContext\obj\Debug\netcoreapp3.1\StrategyPatternWithService.csprojAssemblyReference.cache
+C:\Users\findik\source\repos\DesignPatternsPofur\StrategyPatternWithoutContext\obj\Debug\netcoreapp3.1\StrategyPatternWithService.AssemblyInfoInputs.cache
+C:\Users\findik\source\repos\DesignPatternsPofur\StrategyPatternWithoutContext\obj\Debug\netcoreapp3.1\StrategyPatternWithService.AssemblyInfo.cs
+C:\Users\findik\source\repos\DesignPatternsPofur\StrategyPatternWithoutContext\obj\Debug\netcoreapp3.1\StrategyPatternWithService.csproj.CoreCompileInputs.cache

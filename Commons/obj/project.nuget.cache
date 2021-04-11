@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "f/bpExVzvtx29ibSN2bMVOP36WAAd0tut+F46eEmGmNWZ27lmmwvRo7c+A5FO7m2b/jAKtQ/watEUn2PNGzKyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\findik\\source\\repos\\DesignPatternsPofur\\Commons\\Commons.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\findik\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\findik\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

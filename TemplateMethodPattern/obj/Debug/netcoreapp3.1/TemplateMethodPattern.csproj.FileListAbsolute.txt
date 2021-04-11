@@ -1,0 +1,12 @@
+C:\Users\findik\source\repos\DesignPatternsPofur\TemplateMethodPattern\bin\Debug\netcoreapp3.1\TemplateMethodPattern.exe
+C:\Users\findik\source\repos\DesignPatternsPofur\TemplateMethodPattern\bin\Debug\netcoreapp3.1\TemplateMethodPattern.deps.json
+C:\Users\findik\source\repos\DesignPatternsPofur\TemplateMethodPattern\bin\Debug\netcoreapp3.1\TemplateMethodPattern.runtimeconfig.json
+C:\Users\findik\source\repos\DesignPatternsPofur\TemplateMethodPattern\bin\Debug\netcoreapp3.1\TemplateMethodPattern.runtimeconfig.dev.json
+C:\Users\findik\source\repos\DesignPatternsPofur\TemplateMethodPattern\bin\Debug\netcoreapp3.1\TemplateMethodPattern.dll
+C:\Users\findik\source\repos\DesignPatternsPofur\TemplateMethodPattern\bin\Debug\netcoreapp3.1\TemplateMethodPattern.pdb
+C:\Users\findik\source\repos\DesignPatternsPofur\TemplateMethodPattern\obj\Debug\netcoreapp3.1\TemplateMethodPattern.AssemblyInfoInputs.cache
+C:\Users\findik\source\repos\DesignPatternsPofur\TemplateMethodPattern\obj\Debug\netcoreapp3.1\TemplateMethodPattern.AssemblyInfo.cs
+C:\Users\findik\source\repos\DesignPatternsPofur\TemplateMethodPattern\obj\Debug\netcoreapp3.1\TemplateMethodPattern.csproj.CoreCompileInputs.cache
+C:\Users\findik\source\repos\DesignPatternsPofur\TemplateMethodPattern\obj\Debug\netcoreapp3.1\TemplateMethodPattern.dll
+C:\Users\findik\source\repos\DesignPatternsPofur\TemplateMethodPattern\obj\Debug\netcoreapp3.1\TemplateMethodPattern.pdb
+C:\Users\findik\source\repos\DesignPatternsPofur\TemplateMethodPattern\obj\Debug\netcoreapp3.1\TemplateMethodPattern.genruntimeconfig.cache
