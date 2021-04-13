@@ -13,7 +13,7 @@ namespace BridgePattern
             Console.WriteLine("Spring holiday");
             var maltCreamCare = new MaltCreamCare
             {
-                _thirdPartyVisit = new CatSitterVisit()
+                ThirdPartyVisit = new CatSitterVisit()
             };
             maltCreamCare.TakeCareOfPofur();
 
@@ -23,7 +23,7 @@ namespace BridgePattern
             Console.WriteLine("Autumn holiday");
             var multivitaminCare = new MultivitaminCare
             {
-                _thirdPartyVisit = new NeighbourVisit()
+                ThirdPartyVisit = new NeighbourVisit()
             };
             multivitaminCare.TakeCareOfPofur();
         }

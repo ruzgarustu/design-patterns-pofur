@@ -11,7 +11,6 @@ namespace TemplateMethodPattern
             //How he plays and sleeps are based heavily on weather: If it is a summer day (or a relatively warm day) he prefers to sleep in his hammock in balcony and play with butterflies.
             //If it is a colder day, he sleeps on his human's lap and plays with snowflakes on balcony.
 
-
             //Notice how PofurDailyRoutine abstract class defines a template for his routine and implements the eating food & going to toilet routines, which stays the same no matter how the weather is.
             //SummerDailyRoutine and WinterDailyRoutine classes that derive from this abstract class implement the sleeping & playing routines that differ based on the weather conditions.
 

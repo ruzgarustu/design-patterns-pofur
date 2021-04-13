@@ -14,6 +14,8 @@ namespace StrategyPatternWithService
 
             Console.WriteLine("Pofur is hungry, he demands food!");
 
+            // The info what to feed Pofur based on the hour of the day is in client.
+            // FeederService class is only aware of the IFeedTheCat interface.
             switch (DateTime.Now.Hour)
             {
                 case <= 14:

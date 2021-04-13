@@ -8,7 +8,7 @@ namespace BridgePattern
     {
         public override void TakeCareOfPofur()
         {
-            this._thirdPartyVisit.VisitDaily("multivitamin");
+            this.ThirdPartyVisit.VisitDaily("multivitamin");
         }
     }
 }

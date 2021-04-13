@@ -6,7 +6,7 @@ namespace BridgePattern
 {
     public abstract class PofurSpecialCare
     {
-        public IPofurThirdPartyVisit _thirdPartyVisit;
+        public IPofurThirdPartyVisit ThirdPartyVisit;
 
         public abstract void TakeCareOfPofur();
     }
