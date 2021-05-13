@@ -7,6 +7,9 @@ namespace ChainOfResponsibilityPattern
     {
         public static void Main(string[] args)
         {
+            // Assume we buy Pofur's food from supermarket or online.
+            // Our first choice is supermarket if total price would be less than or equal to 30 euros. If it is more expensive, we are buying them online.
+
             OrderOption supermarketShopping = new Supermarket();
             OrderOption onlineShopping = new Online();
 
